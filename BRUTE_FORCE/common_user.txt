@@ -1,0 +1,11 @@
+root
+administrateur
+guy
+administrator
+msfadmin
+ftp
+user
+guy
+admin
+anonymous
+IUSR

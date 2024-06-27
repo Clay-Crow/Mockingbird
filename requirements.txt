@@ -1,0 +1,11 @@
+getpass4
+python-nmap
+tabulate
+tqdm
+requests
+ldap3
+pandas
+gvm-tools
+subprocess.run
+regex
+datetime
