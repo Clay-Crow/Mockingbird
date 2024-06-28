@@ -57,7 +57,7 @@ Mockingbird utilise divers outils comme `nmap`, `hydra`, `medusa`, `dirhunt`, `w
 
 ## Auteurs
 
-- [CLAY-CROW](lien_vers_profil)
+- [GUY TCHATAT ](lien_vers_profil)
 
 ---
 
